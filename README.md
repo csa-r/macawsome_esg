@@ -6,8 +6,9 @@ This list is both an accompanying resource for our projects and a standalone cur
 1. [Strategy](#strategy)
     1. [Corporate Sustainability and Responsibility](#csr)
 2. [Solutions](#solutions)
-    1. [Microsoft Sustainability Manager](#sustainabilitymanager)
-    2. [Microsoft Cloud for Sustainability](#cloudforsustainability)
+    1. [Microsoft Fabric](#fabric)
+    2. [Microsoft Sustainability Manager](#sustainabilitymanager)
+    3. [Microsoft Cloud for Sustainability](#cloudforsustainability)
 3. [Resources](#resources)
 4. [Examples](#examples)
 
@@ -19,6 +20,11 @@ This list is both an accompanying resource for our projects and a standalone cur
 - Bain & Company: [The Visionary CEO’s Guide to Sustainability 2024](https://www.bain.com/insights/topics/ceo-sustainability-guide/?gad_source=1&gclid=Cj0KCQjw9Km3BhDjARIsAGUb4nxRtDKpMTvKGMsGEaB_7Hjs0QHxB-BzceBHwNfyzbcrvuDye4ULyqMaAkFDEALw_wcB)
 
 ## Solutions <a name="solutions"></a>
+### Microsoft Fabric <a name="fabric"></a>
+- Microsoft Learn: [Overview of Sustainability data solutions in Microsoft Fabric](https://learn.microsoft.com/en-us/industry/sustainability/sustainability-data-solutions-overview)
+- Kevin Chant: [Testing of the new ESG data estate capability for sustainability reporting in Microsoft Fabric](https://www.kevinrchant.com/2024/04/18/testing-of-the-new-esg-data-estate-capability-for-sustainability-reporting-in-microsoft-fabric/)
+- Emil Vincazovic: [ESG Reporting Automatisierung mit Microsoft Fabric](https://youtu.be/ktNyt7Hwa8s?si=weZdPdV3anZgwS2C)
+
 ### Microsoft Sustainability Manager <a name="sustainabilitymanager"></a>
 - Microsoft Industry Blog: [Streamline ESG disclosures with new and expanded reporting solutions](https://www.microsoft.com/en-us/industry/blog/sustainability/2024/08/07/streamline-esg-disclosures-with-new-and-expanded-reporting-solutions/)
 - Github: [Azure DevOps Template for PoC](https://github.com/microsoft/Microsoft-Sustainability-Manager-Project-Process-ADO-Template)
