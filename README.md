@@ -6,7 +6,7 @@ This list is both an accompanying resource for our projects and a standalone cur
 1. [Strategy](#strategy)
     1. [Corporate Sustainability and Responsibility](#csr)
 2. [Solutions](#solutions)
-    1.[Microsoft Sustainability Manager](#sustainabilitymanager)
+    1. [Microsoft Sustainability Manager](#sustainabilitymanager)
     2. [Microsoft Cloud for Sustainability](#cloudforsustainability)
     3. [Resources](#resources)
 
