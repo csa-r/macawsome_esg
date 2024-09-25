@@ -1,4 +1,7 @@
 # Macawsome ESG [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
+![macaw-banner-small](https://github.com/user-attachments/assets/9107c0ed-0f6d-4038-9f6c-29c9d545dd9a)
+
 ## About
 This list is both an accompanying resource for our projects and a standalone curation of useful content for those who are curious about ESG reporting and sustainability in cloud computing.
 
